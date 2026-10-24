@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../leds-control"
+		},
+		{
+			"name": "LED Control",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "LED Control"
+	}
+}
